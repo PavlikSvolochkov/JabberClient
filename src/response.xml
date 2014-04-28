@@ -1,0 +1,6 @@
+<message xml:lang="ru" id="aadfa" to="pavliksvolochkov@jabber.ru/Smack" from="ulysses.test@jabber.ru/WS0055" type="chat">
+  <body>asdfadsfasdfasdfasdfasdfasdfasdfasdf</body>
+  <thread>1112d195-7a5d-4edc-ab97-b111885c6ada</thread>
+  <active xmlns="http://jabber.org/protocol/chatstates" />
+  <nick xmlns="http://jabber.org/protocol/nick">Ulysses</nick>
+</message>
